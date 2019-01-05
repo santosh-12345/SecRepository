@@ -1,4 +1,6 @@
-Public class Test3{
+package com.test.charvikent;
+
+public class Test3{
 
 public static void staticMethod(){
 System.out.println("This is the static method of Test3");
